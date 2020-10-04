@@ -14,4 +14,4 @@
 
 8.receiving-emails
 
-9.iter.py (word list generator)
+9.iter (word list generator)
